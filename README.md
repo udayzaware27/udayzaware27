@@ -1,4 +1,4 @@
-
+#uday
 \<p align="center">
 &#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Udaykumar%20Zaware&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analytics%20%7C%20AI%20%7C%20Computer%20Vision&descSize=16&descAlignY=75](https://capsule-render.vercel.app/api?type=rect\&color=0D1117\&height=150\&section=header\&text=Udaykumar%20Zaware\&fontSize=40\&fontColor=FFFFFF\&animation=fadeIn\&desc=Data%20Analytics%20%7C%20AI%20%7C%20Computer%20Vision\&descSize=16\&descAlignY=75)" width="100%"/>
 \</p>
