@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">UDAYKUMAR NANDKUMAR ZAWARE</h1>
 
 <p align="center">
@@ -149,4 +149,3 @@ Savitribai Phule Pune University (SPPU) | 2023–2027
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udayzaware27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-```
