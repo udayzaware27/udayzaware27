@@ -133,18 +133,5 @@ Savitribai Phule Pune University | 2023–2027
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://udayzaware.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/udaykumar-zaware27">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:udayzaware09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+\<p align="center">   \<a href="[https://udayzaware.in/](https://udayzaware.in/)" target="\_blank">     \<img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/udaykumar-zaware27](https://linkedin.com/in/udaykumar-zaware27)" target="\_blank">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/udayzaware27](https://github.com/udayzaware27)" target="\_blank">     \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="mailto\:udayzaware09\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
-<p align="center">
-  <i>Turning data into insights and technology into solutions.</i>
-</p>
